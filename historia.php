@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
@@ -28,6 +28,7 @@
 </head>
 
 <body>
+
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container">
@@ -58,67 +59,50 @@
   </header>
   <!-- End #header -->
 
-  
-  
   <main id="main">
 
-    
-
-    <!-- ======= Call To Action Section ======= -->
-    <section class="call-to-action">
+     <!-- ======= About Us Section ======= -->
+     <section id="about" class="about">
       <div class="container">
 
-        <div class="text-center">
-          <h3>Instituto de Educación Superior Tecnológico Privado Sur Andes</h3>
-          <p> La ardua labor que llevamos semestre a semestre rinde frutos en nuestros estudiantes.</p>
-          <a class="cta-btn" href="contacto.php">Llamar</a>
+        <div class="section-title">
+          <h2>Historia</h2>
         </div>
-
-      </div>
-    </section><!-- End Call To Action Section -->
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
-      <div class="container">
-
-        <!-- <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div> -->
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="icofont-eye-open"></i></div>
-            <h4 class="title"><a href="misionVision.php">MISION VISION</a></h4>
-            <p class="description">Al 2024, ser una institución licenciada, acreditada, lider en la
-              educación superior tecnológica formando personas profesionales integras e insertadas 
-              en el mercado laboral comprometidas con el desarrollo del país.</p>
-            <p class="description"></p>
+          <div class="col-lg-6 order-1 order-lg-2">
+            <!-- <img src="assets/img/about-img.jpg" class="img-fluid" alt=""> -->
+            <img src="http://portal.apci.gob.pe/media/k2/items/cache/4556f9757414c95d6b9db044b0c9421c_L.jpg" class="img-fluid" alt="">
           </div>
-          <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="icofont-book"></i></div>
-            <h4 class="title"><a href="historia.php">HISTORIA</a></h4>
-            <p class="description">Una delegación de Directores pertenecientes a cuatro IESTP
-              de la Región Puno sostuvo una reunión
-                de trabajo con la Directora
-              Ejecutiva de la Agencia Peruana de Cooperación Internacional (APCI), Arq. Rosa Herrera Costa.</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="icofont-team"></i></div>
-            <h4 class="title"><a href="planaDocente.php">PLANA DOCENTE</a></h4>
-            <p class="description">
-            El Instituto de Educación Superior  Tecnológico Privado SUR ANDES  cuenta con una plana docente de alto nivel académico
-            que tiene formación en las mejores universidades de Estados Unidos, Europa y América Latina.
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
+            <h3>Autorizado con Resolución Ministerial</h3>
+            <h3> Nº 604-2013-ED.</h3>
+            <p class="font-italic">
+                La historia del Instituto de Educación Superior Tecnológico Privado “Sur Andes” 
+                empieza en 2013. El entonces ministro de Educación, general de División 
+                del EP Rodolfo Huanca, firma la R.M. Nº 604-2013-ED. Era el 28 de marzo y 
+                faltaba poco para terminar su mandato el presidente de la República.
             </p>
+            <p> 
+                La Resolución obedecía al convenio entre la República del Perú y el Banco Interamericano
+                de Reconstrucción y Fomento (Proyecto Perú-Birf), que promovía la creación de la Escuela 
+                Superior de Educación Profesional –ESEP– REPÚBLICA FEDERAL PERU. Se autorizaba 
+                entonces a ofrecer las Areas Profesionales de Contabilidad.
+            </p>
+            <!-- <ul>
+              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+              <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+              Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat 
+              nulla pariatur.</li>
+            </ul> -->
           </div>
-          
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section><!-- End About Us Section --> 
 
-    
-
+ 
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
@@ -135,6 +119,7 @@
       </div>
     </div>
   </footer><!-- End #footer -->
+
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 

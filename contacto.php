@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Amoeba Bootstrap Template - Home</title>
+  <title>Insituto Sur Andes</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -25,15 +25,12 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Felix ramos UNA PUNO
-  * Autor: felix ramos UNA PUNO
-  ======================================================== -->
 </head>
 
 <body>
   
-<header id="header" class="fixed-top">
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
     <div class="container">
 
       <div class="logo float-left">
@@ -42,28 +39,25 @@
 
       <nav class="nav-menu float-right d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.php">INICIO</a></li>
-          <li class="drop-down"><a href="">CONÓCENOS</a>
+          <!-- <li class="active"><a href="index.php">INICIO</a></li>  -->
+          <li class="drop-down"><a href="">NOSOTROS</a>
             <ul> 
-              <li><a href="planaDocente.php">Plana docente</a></li>
-              <li><a href="perfilProfesional.php">Perfil profesional</a></li>
-              <li><a href="seguimientoEgresados.php">Seguimiento de egresados</a></li>
+              <li><a href="misionVision.php">MISION Y VISION</a></li>
+              <li><a href="historia.php">HISTORIA</a></li>
+              <li><a href="planaDocente.php">PLANA DOCENTE</a></li>
+              <li><a href="seguimientoEgresados.php">SEGUIMIENTO EGRESADO</a></li>
             </ul>
-          </li>
-          <li class="drop-down"><a href="">CARRERA PROFESIONAL</a>
-            <ul>
-              <li><a href="Contabilidad.php">Contabilidad</a></li>                 
-            </ul>
-          </li> 
-          <li><a href="cursos.php">CURSOS</a></li> 
-          <li><a href="gestionInnovacion.php">GESTIÓN E INNOVACIÓN TECNOLÓGICA</a></li>
+          <li><a href="Contabilidad.php">PROGRAMA DE ESTUDIOS</a></li>                 
+          <li><a href="cursos.php">MALLA CURRICULAR</a></li> 
           <li><a href="contacto.php">CONTACTO</a></li>
+          <li><a href="gestionInnovacion.php">AULA VIRTUAL</a></li>
           
         </ul>
       </nav><!-- .nav-menu -->
 
     </div>
   </header>
+  <!-- End #header -->
   
   <main id="main">
 
@@ -85,8 +79,8 @@
               <h3>Instituto Sur Andes</h3>
               <p>Visitar en la ofcina para un asesoramiento personalizado.</p>
               <div class="social-links">
+                <a href="https://www.facebook.com/InstitutoSuperiorSurAndes/" class="facebook"><i class="icofont-facebook"></i></a>
                 <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-                <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
                 <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
                 <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
               </div>
@@ -107,7 +101,7 @@
 
               <div>
                 <i class="icofont-phone"></i>
-                <p>959922222 - 944444415</p>
+                <p>959922222 </p>
               </div>
 
             </div>
@@ -147,8 +141,8 @@
 
     <!-- ======= Map Section ======= -->
     <section class="map">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d979275.6426238437!2d-71.03606401627061!3d-16.511173903654026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915d69f27f38e5ab%3A0x2ce9af9aaa95cc13!2sGOMITAS%20PUNO!5e0!3m2!1ses-419!2spe!4v1594417811704!5m2!1ses-419!2spe" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-      
+      <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d979275.6426238437!2d-71.03606401627061!3d-16.511173903654026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915d69f27f38e5ab%3A0x2ce9af9aaa95cc13!2sGOMITAS%20PUNO!5e0!3m2!1ses-419!2spe!4v1594417811704!5m2!1ses-419!2spe" frameborder="0" style="border:0;" allowfullscreen=""></iframe> -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61410.9904385633!2d-70.05140808996384!3d-15.846771118117873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915d6985f4e74135%3A0x1e341dd8f24d32cf!2sPuno!5e0!3m2!1ses-419!2spe!4v1611628994043!5m2!1ses-419!2spe" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     </section><!-- End Map Section -->
 
   </main><!-- End #main -->

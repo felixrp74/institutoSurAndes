@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Plana docente</title>
+  <title>Insituto Sur Andes</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -25,13 +25,11 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Felix ramos UNA PUNO
-  * Autor: felix ramos UNA PUNO
-  ======================================================== -->
 </head>
 
 <body>
+
+  <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container">
 
@@ -41,32 +39,27 @@
 
       <nav class="nav-menu float-right d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.php">INICIO</a></li>
-          <li class="drop-down"><a href="">CONÓCENOS</a>
+          <!-- <li class="active"><a href="index.php">INICIO</a></li>  -->
+          <li class="drop-down"><a href="">NOSOTROS</a>
             <ul> 
-              <li><a href="planaDocente.php">Plana docente</a></li>
-              <li><a href="perfilProfesional.php">Perfil profesional</a></li>
-              <li><a href="seguimientoEgresados.php">Seguimiento de egresados</a></li>
+              <li><a href="misionVision.php">MISION Y VISION</a></li>
+              <li><a href="historia.php">HISTORIA</a></li>
+              <li><a href="planaDocente.php">PLANA DOCENTE</a></li>
+              <li><a href="seguimientoEgresados.php">SEGUIMIENTO EGRESADO</a></li>
             </ul>
-          </li>
-          <li class="drop-down"><a href="">CARRERA PROFESIONAL</a>
-            <ul>
-              <li><a href="Contabilidad.php">Contabilidad</a></li>                 
-            </ul>
-          </li> 
-          <li><a href="cursos.php">CURSOS</a></li> 
-          <li><a href="gestionInnovacion.php">GESTIÓN E INNOVACIÓN TECNOLÓGICA</a></li>
+          <li><a href="Contabilidad.php">PROGRAMA DE ESTUDIOS</a></li>                 
+          <li><a href="cursos.php">MALLA CURRICULAR</a></li> 
           <li><a href="contacto.php">CONTACTO</a></li>
+          <li><a href="gestionInnovacion.php">AULA VIRTUAL</a></li>
           
         </ul>
       </nav><!-- .nav-menu -->
 
     </div>
-  </header>    
-  
-  <main id="main">
+  </header>
+  <!-- End #header -->
 
-     
+  <main id="main">
 
     <!-- ======= Contabilidad ======= --> 
       <div class="container">
@@ -75,59 +68,132 @@
           <h2>Contabilidad</h2>
         </div>
 
-        <div class="row">
-          <div class="col-lg-6">
-            <p>La contabilidad es una disciplina que se encarga de estudiar, medir y analizar el patrimonio y la situación económica financiera de una empresa u organización, con el fin de facilitar la toma de decisiones en el seno de la misma y el control externo, presentando la información, previamente registrada, de manera sistemática y útil para las distintas partes interesadas.</p>
-          </div>
-          <div class="col-lg-6">
+        <div class="row">   
             <div class="view">
-                <img src="/assets/img/instituto/baner.jpeg" class="img-fluid" alt="placeholder">
-                <div class="mask flex-center waves-effect waves-light rgba-teal-strong">
-                  <p class="white-text text-center">Acreditado por MINEDU</p>
-                </div>
-              </div>
+                <img src="assets/img/instituto/baner.jpeg" class="img-fluid" alt="placeholder">
+            </div> 
+        </div>
+      </div>
+ 
+
+
+
+
+      <!-- ======= About Us Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <!-- <div class="section-title">
+          <h2>About Us</h2>
+        </div> -->
+
+        <div class="row">
+          <!-- <div class="col-lg-6 order-1 order-lg-2">
+            <img src="assets/img/about-img.jpg" class="img-fluid" alt="">
+          </div> -->
+          <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
+            <h2>¿Qué hace un profesional Técnico en Contabilidad?</h2>
+            <!-- <p class="font-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p> -->
+            <ul>
+              <li><i class="icofont-check-circled"></i> Realizar el registro contable de las operaciones financieras, comerciales y de costos de las empresas.</li>
+              <li><i class="icofont-check-circled"></i> Elaborar y analizar estados financieros.</li>
+              <li><i class="icofont-check-circled"></i> Determinar impuestos, tributos y declaraciones fiscales sobre la base del marco regulatorio nacional y la normatividad de las empresas.</li>
+            </ul>
+            <!-- <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p> -->
           </div>
         </div>
-        <hr>
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="text-center">Tabla de habilidades adquiridas al final de los semestres.</h2>
-                
-                <table class="table table-striped">
-                    <thead>
-                    <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">First</th>
-                        <th scope="col">Last</th>
-                        <th scope="col">Handle</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <th scope="row">1</th>
-                        <td>Mark</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">2</th>
-                        <td>Jacob</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">3</th>
-                        <td>Larry</td>
-                        <td>the Bird</td>
-                        <td>@twitter</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
-         </div>
-    </div>
 
-     
+        
+        <div class="row">
+          <!-- <div class="col-lg-6 order-1 order-lg-2">
+            <img src="assets/img/about-img.jpg" class="img-fluid" alt="">
+          </div> -->
+          <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
+            <h2>Certificaciones</h2>
+            <!-- <p class="font-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p> -->
+            <ul>
+              <li><i class="icofont-check-circled"></i> 1ra. Certificación  : Operaciones Contables y Tributarias.</li>
+              <li><i class="icofont-check-circled"></i> 2da. Certificación : Procesos y Sistemas Contables.</li>
+              <li><i class="icofont-check-circled"></i> 3ra. Certificación  : Análisis Contable y Financiero​​.</li>
+              
+            </ul>
+            <!-- <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p> -->
+          </div>
+        </div>
+
+        <div class="row">
+          <!-- <div class="col-lg-6 order-1 order-lg-2">
+            <img src="assets/img/about-img.jpg" class="img-fluid" alt="">
+          </div> -->
+          <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
+            <h2>Grados y Títulos</h2>
+            <!-- <p class="font-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p> -->
+            <ul>
+              <li><i class="icofont-check"></i>Grado Académico de Bachiller Técnico en Contabilidad</li>
+              <li><i class="icofont-check"></i> Título Profesional Técnico en Contabilidad</li>
+              <!-- <li><i class="icofont-check-circled"></i> 3ra. Certificación  : Análisis Contable y Financiero​​.</li> -->
+              
+            </ul>
+            <!-- <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p> -->
+          </div>
+        </div>
+
+
+
+
+        <div class="row">
+          <!-- <div class="col-lg-6 order-1 order-lg-2">
+            <img src="assets/img/about-img.jpg" class="img-fluid" alt="">
+          </div> -->
+          <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
+            <h2>Campo Laboral</h2>
+              <p class="font-italic"> 
+                El egresado del programa de estudios de Contabilidad podrá desempeñarse en el área contable y 
+                financiera de cualquier institución y/o empresa pública o privada en posiciones especializadas como contabilidad general, 
+                finanzas, tributación, tesorería, auditoría interna, entre otros, desempeñando funciones como:
+              </p> 
+            <ul>
+              <li> Asistente / Coordinador / Jefe de Contabilidad </li>
+              <li> Asistente / Supervisor / Jefe de Finanzas </li>
+              <li> Asistente / Coordinador de Tesorería </li>
+              <li> Asistente / Coordinador de Remuneraciones y liquidación de impuestos </li>
+              <!-- <li><i class="icofont-check"></i>Grado Académico de Bachiller Técnico en Contabilidad</li>
+              <li><i class="icofont-check"></i> Título Profesional Técnico en Contabilidad</li> -->
+              <!-- <li><i class="icofont-check-circled"></i> 3ra. Certificación  : Análisis Contable y Financiero​​.</li> -->
+              
+            </ul>
+            <!-- <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p> -->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
  
 
   </main><!-- End #main -->

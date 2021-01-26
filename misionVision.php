@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
@@ -28,6 +28,7 @@
 </head>
 
 <body>
+
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container">
@@ -58,66 +59,71 @@
   </header>
   <!-- End #header -->
 
-  
-  
   <main id="main">
 
-    
-
-    <!-- ======= Call To Action Section ======= -->
-    <section class="call-to-action">
+    <!-- ======= Breadcrumbs ======= -->
+    <section class="breadcrumbs">
       <div class="container">
 
-        <div class="text-center">
-          <h3>Instituto de Educación Superior Tecnológico Privado Sur Andes</h3>
-          <p> La ardua labor que llevamos semestre a semestre rinde frutos en nuestros estudiantes.</p>
-          <a class="cta-btn" href="contacto.php">Llamar</a>
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Misión y Visión </h2>
+          <ol>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="misionVision.php">Portfolio</a></li>
+            <li>Portfolio Details</li>
+          </ol>
         </div>
 
       </div>
-    </section><!-- End Call To Action Section -->
+    </section><!-- Breadcrumbs -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
+    <!-- ======= Portfolio Details Section ======= -->
+    <section class="portfolio-details">
       <div class="container">
 
-        <!-- <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div> -->
-
-        <div class="row">
-          <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="icofont-eye-open"></i></div>
-            <h4 class="title"><a href="misionVision.php">MISION VISION</a></h4>
-            <p class="description">Al 2024, ser una institución licenciada, acreditada, lider en la
-              educación superior tecnológica formando personas profesionales integras e insertadas 
-              en el mercado laboral comprometidas con el desarrollo del país.</p>
-            <p class="description"></p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="icofont-book"></i></div>
-            <h4 class="title"><a href="historia.php">HISTORIA</a></h4>
-            <p class="description">Una delegación de Directores pertenecientes a cuatro IESTP
-              de la Región Puno sostuvo una reunión
-                de trabajo con la Directora
-              Ejecutiva de la Agencia Peruana de Cooperación Internacional (APCI), Arq. Rosa Herrera Costa.</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="icofont-team"></i></div>
-            <h4 class="title"><a href="planaDocente.php">PLANA DOCENTE</a></h4>
-            <p class="description">
-            El Instituto de Educación Superior  Tecnológico Privado SUR ANDES  cuenta con una plana docente de alto nivel académico
-            que tiene formación en las mejores universidades de Estados Unidos, Europa y América Latina.
-            </p>
-          </div>
-          
+        
+      <div class="portfolio-description">
+          <h2>Misión</h2>
+          <p>
+          Al 2024, ser una institución licenciada, acreditada, lider en la
+           educación superior tecnológica formando personas profesionales integras e insertadas 
+          en el mercado laboral comprometidas con el desarrollo del país.
+          </p>
         </div>
-
+        <div class="portfolio-description">
+          <h2>Visión</h2>
+          <p>
+          “Formar profesionales técnicos de calidad con valores éticos y morales, 
+          que contribuyan a mejorar la realidad socio-económica del país”.
+          </p>
+        </div>
+        <div class="portfolio-description">
+          <h2>Fines</h2>
+          <div class="course-required" style="margin: 1em">
+            <ul>
+                <li><span class="fa fa-check"></span> Contribuir a mejorar la calidad y eficiencia de la Educación Superior Tecnológica, ampliando los servicios educativos de acuerdo a los requerimientos del mercado ucupacional.</li>
+                <li><span class="fa fa-check"></span> Impulsar la Investigación Tecnológica orientada al diagnóstico y solución de los problemas regionales y nacionales.</li>
+                <li><span class="fa fa-check"></span> Modernizar permanentemente los servicios que ofrece.</li>
+                <li><span class="fa fa-check"></span> Proyectar sus actividades hacia la comunidad, especialmente a los sectores de menor desarrollo.</li>
+                <li><span class="fa fa-check"></span> Utilizar la Tecnología como un medio de contribución a la paz social y conservación del medio ambiente.</li>
+                <li><span class="fa fa-check"></span> Promover el desarrollo científico y socioeconómico del personal que labora en el IESTP "SUR ANDES".</li>
+            </ul>
+        </div>
+        </div>
+        <div class="portfolio-description">
+          <h2>Objetivos</h2>
+          <div class="course-required" style="margin: 1em">
+            <ul>
+                <li><span class="fa fa-check"></span> Brindar una formación profesional acorde con la demanda social, productiva y empresarial, con una estructura curricular modular, flexible, eslabonada y factible de afrontar las necesidades de convalidación y actualización permanente.</li>
+                <li><span class="fa fa-check"></span> Implementar un sistema de acreditación y certificación progresiva, con garantía de calidad y éxito profesional.</li>
+                <li><span class="fa fa-check"></span> Motivar la labor del docente profesional para impulsar, diseñar, formular y ejecutar programas de mejoramiento continuo.</li>
+                <li><span class="fa fa-check"></span> Convertir a nuestra institución en un agente dinamizador del entorno implementando un conjunto de mecanismos de convenios, alianzas estratégicas e intercambio de servicios educativos, empresariales y de innovación, con los actores sociales de la localidad.</li>
+                <li><span class="fa fa-check"></span> Fomentar la investigación, innovación y transferencia tecnológica a favor de los sectores productivos y de servicios de la región.</li>
+            </ul>
+        </div>
+        </div>
       </div>
-    </section><!-- End Services Section -->
-
-    
+    </section><!-- End Portfolio Details Section -->
 
   </main><!-- End #main -->
 
@@ -135,6 +141,7 @@
       </div>
     </div>
   </footer><!-- End #footer -->
+
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 

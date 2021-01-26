@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Plana docente</title>
+  <title>Insituto Sur Andes</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -25,14 +25,11 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Felix ramos UNA PUNO
-  * Autor: felix ramos UNA PUNO
-  ======================================================== -->
 </head>
 
 <body>
 
+  <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container">
 
@@ -42,29 +39,25 @@
 
       <nav class="nav-menu float-right d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.php">INICIO</a></li>
-          <li class="drop-down"><a href="">CONÓCENOS</a>
+          <!-- <li class="active"><a href="index.php">INICIO</a></li>  -->
+          <li class="drop-down"><a href="">NOSOTROS</a>
             <ul> 
-              <li><a href="planaDocente.php">Plana docente</a></li>
-              <li><a href="perfilProfesional.php">Perfil profesional</a></li>
-              <li><a href="seguimientoEgresados.php">Seguimiento de egresados</a></li>
+              <li><a href="misionVision.php">MISION Y VISION</a></li>
+              <li><a href="historia.php">HISTORIA</a></li>
+              <li><a href="planaDocente.php">PLANA DOCENTE</a></li>
+              <li><a href="seguimientoEgresados.php">SEGUIMIENTO EGRESADO</a></li>
             </ul>
-          </li>
-          <li class="drop-down"><a href="">CARRERA PROFESIONAL</a>
-            <ul>
-              <li><a href="Contabilidad.php">Contabilidad</a></li>                 
-            </ul>
-          </li> 
-          <li><a href="cursos.php">CURSOS</a></li> 
-          <li><a href="gestionInnovacion.php">GESTIÓN E INNOVACIÓN TECNOLÓGICA</a></li>
+          <li><a href="Contabilidad.php">PROGRAMA DE ESTUDIOS</a></li>                 
+          <li><a href="cursos.php">MALLA CURRICULAR</a></li> 
           <li><a href="contacto.php">CONTACTO</a></li>
+          <li><a href="gestionInnovacion.php">AULA VIRTUAL</a></li>
           
         </ul>
       </nav><!-- .nav-menu -->
 
     </div>
-  </header> 
-    
+  </header>
+  <!-- End #header -->
    
   
   <main id="main">

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Plana docente</title>
+  <title>Insituto Sur Andes</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -25,14 +25,12 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Felix ramos UNA PUNO
-  * Autor: felix ramos UNA PUNO
-  ======================================================== -->
 </head>
 
 <body>
-<header id="header" class="fixed-top">
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
     <div class="container">
 
       <div class="logo float-left">
@@ -41,28 +39,25 @@
 
       <nav class="nav-menu float-right d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.php">INICIO</a></li>
-          <li class="drop-down"><a href="">CONÓCENOS</a>
+          <!-- <li class="active"><a href="index.php">INICIO</a></li>  -->
+          <li class="drop-down"><a href="">NOSOTROS</a>
             <ul> 
-              <li><a href="planaDocente.php">Plana docente</a></li>
-              <li><a href="perfilProfesional.php">Perfil profesional</a></li>
-              <li><a href="seguimientoEgresados.php">Seguimiento de egresados</a></li>
+              <li><a href="misionVision.php">MISION Y VISION</a></li>
+              <li><a href="historia.php">HISTORIA</a></li>
+              <li><a href="planaDocente.php">PLANA DOCENTE</a></li>
+              <li><a href="seguimientoEgresados.php">SEGUIMIENTO EGRESADO</a></li>
             </ul>
-          </li>
-          <li class="drop-down"><a href="">CARRERA PROFESIONAL</a>
-            <ul>
-              <li><a href="Contabilidad.php">Contabilidad</a></li>                 
-            </ul>
-          </li> 
-          <li><a href="cursos.php">CURSOS</a></li> 
-          <li><a href="gestionInnovacion.php">GESTIÓN E INNOVACIÓN TECNOLÓGICA</a></li>
+          <li><a href="Contabilidad.php">PROGRAMA DE ESTUDIOS</a></li>                 
+          <li><a href="cursos.php">MALLA CURRICULAR</a></li> 
           <li><a href="contacto.php">CONTACTO</a></li>
+          <li><a href="gestionInnovacion.php">AULA VIRTUAL</a></li>
           
         </ul>
       </nav><!-- .nav-menu -->
 
     </div>
   </header>
+  <!-- End #header -->
  
   <main id="main">
 
@@ -72,133 +67,44 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Cursos</h2>
+          <h2>Malla Curricular</h2>
         </div>
 
         <div class="row">
+            <div class="col-lg-12">
+              <div class="view">
+                  <img src="assets/img/instituto/malla.png" class="img-fluid" alt="placeholder">
+                  <div class="mask flex-center waves-effect waves-light rgba-teal-strong">
+                    <!-- <p class="white-text text-center">Acreditado por MINEDU</p> -->
+                  </div>
+              </div>
+            </div>
+         </div> 
+
+         <br>
+        <br>
+
+        <div class="row">
           <div class="col-lg-6">
-            <p>La contabilidad es una disciplina que se encarga de estudiar, medir y analizar el patrimonio y la situación económica financiera de una empresa u organización, con el fin de facilitar la toma de decisiones en el seno de la misma y el control externo, presentando la información, previamente registrada, de manera sistemática y útil para las distintas partes interesadas.</p>
+            <p>La contabilidad es una disciplina que se encarga de estudiar, medir y analizar el patrimonio y 
+              la situación económica financiera de una empresa u organización, con el fin de facilitar la
+               toma de decisiones en el seno de la misma y el control externo, presentando la información,
+                previamente registrada, de manera sistemática y útil para las distintas partes interesadas.</p>
           </div>
           <div class="col-lg-6">
             <div class="view">
-                <img src="/assets/img/instituto/laptop.jpg" class="img-fluid" alt="placeholder">
+                <img src="http://portal.apci.gob.pe/media/k2/items/cache/4556f9757414c95d6b9db044b0c9421c_XL.jpg" class="img-fluid" alt="placeholder">
                 <div class="mask flex-center waves-effect waves-light rgba-teal-strong">
                   <p class="white-text text-center">Acreditado por MINEDU</p>
                 </div>
-              </div>
-          </div>
-        </div>
-        <hr>
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="text-center">Semestre 1</h2>
-                
-                <table class="table table-striped">
-                    <thead>
-                    <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">First</th>
-                        <th scope="col">Last</th>
-                        <th scope="col">Handle</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <th scope="row">1</th>
-                        <td>Mark</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">2</th>
-                        <td>Jacob</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">3</th>
-                        <td>Larry</td>
-                        <td>the Bird</td>
-                        <td>@twitter</td>
-                    </tr>
-                    </tbody>
-                </table>
             </div>
-         </div>
-         <div class="row">
-          <div class="col-lg-12">
-              <h2 class="text-center">Semestre 2</h2>
-              
-              <table class="table table-striped">
-                  <thead>
-                  <tr>
-                      <th scope="col">#</th>
-                      <th scope="col">First</th>
-                      <th scope="col">Last</th>
-                      <th scope="col">Handle</th>
-                  </tr>
-                  </thead>
-                  <tbody>
-                  <tr>
-                      <th scope="row">1</th>
-                      <td>Mark</td>
-                      <td>Otto</td>
-                      <td>@mdo</td>
-                  </tr>
-                  <tr>
-                      <th scope="row">2</th>
-                      <td>Jacob</td>
-                      <td>Thornton</td>
-                      <td>@fat</td>
-                  </tr>
-                  <tr>
-                      <th scope="row">3</th>
-                      <td>Larry</td>
-                      <td>the Bird</td>
-                      <td>@twitter</td>
-                  </tr>
-                  </tbody>
-              </table>
           </div>
-       </div>
-       <div class="row">
-        <div class="col-lg-12">
-            <h2 class="text-center">Semestre 3</h2>
-            
-            <table class="table table-striped">
-                <thead>
-                <tr>
-                    <th scope="col">#</th>
-                    <th scope="col">First</th>
-                    <th scope="col">Last</th>
-                    <th scope="col">Handle</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                </tr>
-                <tr>
-                    <th scope="row">2</th>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
-                    <td>@fat</td>
-                </tr>
-                <tr>
-                    <th scope="row">3</th>
-                    <td>Larry</td>
-                    <td>the Bird</td>
-                    <td>@twitter</td>
-                </tr>
-                </tbody>
-            </table>
         </div>
-     </div>
-     
-       
+
+
+        
+        
+     </div> 
     </div>
 
      

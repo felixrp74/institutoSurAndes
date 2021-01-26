@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Plana docente</title>
+  <title>Insituto Sur Andes</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -25,13 +25,11 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Felix ramos UNA PUNO
-  * Autor: felix ramos UNA PUNO
-  ======================================================== -->
 </head>
 
 <body>
+
+  <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container">
 
@@ -41,169 +39,74 @@
 
       <nav class="nav-menu float-right d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.php">INICIO</a></li>
-          <li class="drop-down"><a href="">CONÓCENOS</a>
+          <!-- <li class="active"><a href="index.php">INICIO</a></li>  -->
+          <li class="drop-down"><a href="">NOSOTROS</a>
             <ul> 
-              <li><a href="planaDocente.php">Plana docente</a></li>
-              <li><a href="perfilProfesional.php">Perfil profesional</a></li>
-              <li><a href="seguimientoEgresados.php">Seguimiento de egresados</a></li>
+              <li><a href="misionVision.php">MISION Y VISION</a></li>
+              <li><a href="historia.php">HISTORIA</a></li>
+              <li><a href="planaDocente.php">PLANA DOCENTE</a></li>
+              <li><a href="seguimientoEgresados.php">SEGUIMIENTO EGRESADO</a></li>
             </ul>
-          </li>
-          <li class="drop-down"><a href="">CARRERA PROFESIONAL</a>
-            <ul>
-              <li><a href="Contabilidad.php">Contabilidad</a></li>                 
-            </ul>
-          </li> 
-          <li><a href="cursos.php">CURSOS</a></li> 
-          <li><a href="gestionInnovacion.php">GESTIÓN E INNOVACIÓN TECNOLÓGICA</a></li>
+          <li><a href="Contabilidad.php">PROGRAMA DE ESTUDIOS</a></li>                 
+          <li><a href="cursos.php">MALLA CURRICULAR</a></li> 
           <li><a href="contacto.php">CONTACTO</a></li>
+          <li><a href="gestionInnovacion.php">AULA VIRTUAL</a></li>
           
         </ul>
       </nav><!-- .nav-menu -->
 
     </div>
   </header>
-
-  
-
+  <!-- End #header -->
   
   <main id="main">
+  <!-- https://www.upeu.edu.pe/wp-content/uploads/2018/10/Graduaci%C3%B3n-septiembre-2018-UPeU-Filial-Juliaca-1500x750.jpg -->
 
-    <div class="container">
-
-        <div class="section-title">
-            <h2><b>Seguimiento de egresados 2018</b></h2>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="table-responsive">
-                    <table class="table">
-                    <thead>
-                        <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                        <th scope="row">1</th>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        </tr>
-                        <tr>
-                        <th scope="row">2</th>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        </tr>
-                        <tr>
-                        <th scope="row">3</th>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        </tr>
-                    </tbody>
-                    </table>
-                </div>
-          </div>
-        </div>
- 
-    </div>
-
-    <div class="container">
+    <!-- ======= About Us Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
 
         <div class="section-title">
-            <h2><b>Seguimiento de egresados 2018</b></h2>
+          <h2>Seguimiento Egresado</h2>
         </div>
+
         <div class="row">
-            <div class="col-lg-12">
-                <div class="table-responsive">
-                    <table class="table">
-                    <thead>
-                        <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        <th scope="col">Heading</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                        <th scope="row">1</th>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        </tr>
-                        <tr>
-                        <th scope="row">2</th>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        </tr>
-                        <tr>
-                        <th scope="row">3</th>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        <td>Cell</td>
-                        </tr>
-                    </tbody>
-                    </table>
-                </div>
+          <div class="col-lg-12 order-1 order-lg-2">
+            <img src="https://www.upeu.edu.pe/wp-content/uploads/2018/10/Graduaci%C3%B3n-septiembre-2018-UPeU-Filial-Juliaca-1500x750.jpg" class="img-fluid" alt="">
           </div>
+          
         </div>
+
+        <div class="row">
+          <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
+              <h3>Los egresados con trabajos en las lineas de contabilidad.</h3>
+              <p class="font-italic">
+              su quincuagésimo cuarto aniversario; ceremonia protocolar a la que asistió el rector, Dr. Enrique Gonza Salas, quien valorará el esfuerzo que realizan los docentes, estudiantes, personal administrativo y egresados de esta escuela profesional, en lograr una formación de calidad, con profesionales probos al servicio de la sociedad.     
+
+              </p>
+              <!-- <ul>
+                <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              </ul> -->
+              <p>
+                
+El decano, M.Sc. Hermógenes Mendoza Ancco, recordó que está reconocida Facultad asocia a las escuelas profesionales de Ciencias Contables y Administración, ambas certificadas y acreditadas por el  
+  Evaluación, Acreditación y Certificación de la Calidad Educativa (MINEDU), siendo las primeras carreras profesionales con este reconocimiento a nivel nacional.
+
+Durante esta actividad se llevó a cabo la ceremonia de Colación de Grado, de
+ los flamantes egresados que prontamente se insertarán al mercado laboral, cuyas expectativas institucionales son óptimas, ya que la formación impartida en los claustros universitarios cuentan con todos los estándares de calidad, que prontamente serán revalidados.
+
+Feliz LIV aniversario, Facultad de Ciencias Contables y Administrativas.    
+              </p>
+            </div>
+        </div>
+
+
+      </div>
+    </section><!-- End About Us Section -->
+    
  
-    </div>
 
   </main><!-- End #main -->
 
