@@ -79,7 +79,7 @@
 
         <div class="row">
           <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
-              <h3>Los egresados con trabajos en las lineas de contabilidad.</h3>
+              <h3>Los egresados con trabajos en las líneas de contabilidad.</h3>
               <p class="font-italic">
               su quincuagésimo cuarto aniversario; ceremonia protocolar a la que asistió el rector, Dr. Enrique Gonza Salas, quien valorará el esfuerzo que realizan los docentes, estudiantes, personal administrativo y egresados de esta escuela profesional, en lograr una formación de calidad, con profesionales probos al servicio de la sociedad.     
 
@@ -91,13 +91,13 @@
               </ul> -->
               <p>
                 
-El decano, M.Sc. Hermógenes Mendoza Ancco, recordó que está reconocida Facultad asocia a las escuelas profesionales de Ciencias Contables y Administración, ambas certificadas y acreditadas por el  
-  Evaluación, Acreditación y Certificación de la Calidad Educativa (MINEDU), siendo las primeras carreras profesionales con este reconocimiento a nivel nacional.
+                El decano, M.Sc. Hermógenes Mendoza Ancco, recordó que está reconocida Facultad asocia a las escuelas profesionales de Ciencias Contables y Administración, ambas certificadas y acreditadas por el  
+                  Evaluación, Acreditación y Certificación de la Calidad Educativa (MINEDU), siendo las primeras carreras profesionales con este reconocimiento a nivel nacional.
 
-Durante esta actividad se llevó a cabo la ceremonia de Colación de Grado, de
- los flamantes egresados que prontamente se insertarán al mercado laboral, cuyas expectativas institucionales son óptimas, ya que la formación impartida en los claustros universitarios cuentan con todos los estándares de calidad, que prontamente serán revalidados.
+                Durante esta actividad se llevó a cabo la ceremonia de Colación de Grado, de
+                los flamantes egresados que prontamente se insertarán al mercado laboral, cuyas expectativas institucionales son óptimas, ya que la formación impartida en los claustros universitarios cuentan con todos los estándares de calidad, que prontamente serán revalidados.
 
-Feliz LIV aniversario, Facultad de Ciencias Contables y Administrativas.    
+                Feliz LIV aniversario, Facultad de Ciencias Contables y Administrativas.    
               </p>
             </div>
         </div>

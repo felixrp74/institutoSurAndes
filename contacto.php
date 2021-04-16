@@ -128,7 +128,7 @@
               <div class="mb-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">Un mensaje!</div>
               </div>
               <div class="text-center"><button type="submit">Enviar mensaje</button></div>
             </form>

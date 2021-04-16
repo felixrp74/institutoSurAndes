@@ -78,7 +78,7 @@
             <div class="member">
               <img src="assets/img/team/rodolfo.png" alt="">
               <h4>Lic. Rodolfo Huanca Rodrigo</h4>
-              <span>Director</span>
+              <span>Promotor</span>
               <p>
               Ostentar la representación del centro docente, representar
                a la Administración educativa en el mismo y hacerle llegar 
@@ -98,15 +98,12 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/felix.jpg" alt="">
-              <h4>Bachiller  Felix Ramos Paredes</h4>
-              <span> Ingenieria Software e Ingenieria Sistemas</span>
-              <p>
-                Con conocimiento en la ingenieria de sistemas e inteligencia artificial.
-                Diseñar, programar, aplicar y mantener sistemas informáticos.
-                Administrar redes y sistemas de información.
-                Optimizar los datos que maneja una empresa.
-                Investigar para crear software y hardware en una empresa u organización.
+              <img src="assets/img/team/helfer.jpg" alt="">
+              <h4>Mg. Sc. Helfer Rudel Cusilayme Barrantes</h4>
+              <span>Director</span>
+              <p>                
+                Profesional que ejerce la disciplina de la contabilidad dentro de un ámbito económico, 
+                normalmente se desarrolla dentro de empresas, organizaciones e incluso para ayudar personas en sus finanzas personales o sus empresas.
               </p>
               <div class="social">
                 <!-- <a href=""><i class="icofont-twitter"></i></a>
@@ -121,9 +118,9 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/fernando.png" alt="">
-              <h4>Lic. Fer Aquise Mamani</h4>
-              <span>Licenciado Contabilidad</span>
+              <img src="assets/img/team/fer2.png" alt="">
+              <h4>Mg. Sc. Edith Fernanda Paredes Calatayud</h4>
+              <span>Jefe académico</span>
               <p>
                 Con trayectoria en diversos campos de la educación.
                 Seleccionar información económico-financiera relevante para la toma de decisiones. ...
@@ -142,6 +139,32 @@
 
         </div>
 
+
+        
+        <div class="row">v>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/felix2.png" alt="">
+              <h4>Felix Ramos Paredes</h4>
+              <span>Tecnologías de Información - Computación</span>
+              <p>
+                Con conocimiento en la ingenieria de sistemas e inteligencia artificial.
+                Diseñar, programar, aplicar y mantener sistemas informáticos.
+                Administrar redes y sistemas de información.
+                Optimizar los datos que maneja una empresa.
+                Investigar para crear software y hardware en una empresa u organización.
+              </p>
+              <div class="social">
+                <!-- <a href=""><i class="icofont-twitter"></i></a>
+                <a href=""><i class="icofont-facebook"></i></a>
+                <a href=""><i class="icofont-instagram"></i></a> -->
+                <a href=""><i class="icofont-linkedin"></i></a>
+              </div>
+            </div>
+          </div>          
+
+        </div>
       </div>
     </section><!-- End Our Team Section -->
 
@@ -156,9 +179,6 @@
         &copy; Derechos de autor <strong><span>Software Puno</span></strong></div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-one-page-bootstrap-template-amoeba/ -->
           Sitio Web desarrollado por  <a href="https://www.linkedin.com/in/felix-ramos-98469b180/" target="_blank">Felix Ramos Paredes</a>
       </div>
     </div>

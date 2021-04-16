@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Insituto Sur Andes</title>
+  <title>Instituto Sur Andes</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -64,16 +64,20 @@
   <section id="contact" class="contact section-bg">
         
     <div class="container">
-
       <div class="section-title">
-        <h1>En Preparacion</h1>
-        <p>Se requiere USUARIO Y CONTRASEÑA.</p>
+        <h1>Aula Virtual</h1>
+          <a class="btn btn-info" href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=9ebd8b9f-1072-4916-bdcb-2dc3ddee03da" target="_blank">Aula virtual</a>
         <br>
-        <img src="https://avinnovador.com/wp-content/uploads/2020/04/home_about_2.jpg" class="img-fluid" alt="">
       </div>
 
       <div class="row">
-          <div class="col-lg-12 order-1 order-lg-2">
+          <div class="col-lg-6 order-1 order-lg-2">
+            <img src="https://avinnovador.com/wp-content/uploads/2020/04/home_about_2.jpg" class="img-fluid" alt="">
+          
+          </div>
+          <div class="col-lg-6 order-1 order-lg-2">
+            <img src="https://avinnovador.com/wp-content/uploads/2020/04/home_about_2.jpg" class="img-fluid" alt="">
+          
           </div>
       </div>
     </div>
@@ -96,7 +100,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-one-page-bootstrap-template-amoeba/ -->
-          Sitio Web desarrollado por  <a href="https://www.linkedin.com/in/felix-ramos-98469b180/" target="_blank">Felix Ramos Paredes</a>
+          Sitio Web Informativo desarrollado por  <a href="https://www.linkedin.com/in/felix-ramos-98469b180/" target="_blank">Felix Ramos Paredes</a>
       </div>
     </div>
   </footer><!-- End #footer -->
