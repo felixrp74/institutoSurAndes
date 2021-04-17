@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Insituto Sur Andes</title>
+  <title>Instituto Sur Andes</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -72,6 +72,7 @@
           <h3>Instituto de Educación Superior Tecnológico Privado Sur Andes</h3>
           <p> La ardua labor que llevamos semestre a semestre rinde frutos en nuestros estudiantes.</p>
           <a class="cta-btn" href="contacto.php">Llamar</a>
+          <a class="cta-btn" href="admision.php">Examen</a>
         </div>
 
       </div>
@@ -87,6 +88,12 @@
         </div> -->
 
         <div class="row">
+          <div class="col-lg-4 col-md-6 icon-box">
+            <div class="icon"><i class="icofont-computer"></i></div>
+            <h4 class="title"><a href="admision.php">ADMISIÓN</a></h4>
+            <p class="description">Fecha del Examen Virtual es 2021, por favor leer las instrucciones.</p>
+            <p class="description"></p>
+          </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="icofont-eye-open"></i></div>
             <h4 class="title"><a href="misionVision.php">MISION VISION</a></h4>

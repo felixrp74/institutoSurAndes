@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Insituto Sur Andes</title>
+  <title>Instituto Sur Andes</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -67,11 +67,11 @@
 
         <div class="d-flex justify-content-between align-items-center">
           <h2>Misión y Visión </h2>
-          <ol>
+          <!-- <ol>
             <li><a href="index.php">Home</a></li>
             <li><a href="misionVision.php">Portfolio</a></li>
             <li>Portfolio Details</li>
-          </ol>
+          </ol> -->
         </div>
 
       </div>

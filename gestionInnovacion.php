@@ -66,18 +66,19 @@
     <div class="container">
       <div class="section-title">
         <h1>Aula Virtual</h1>
-          <a class="btn btn-info" href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=9ebd8b9f-1072-4916-bdcb-2dc3ddee03da" target="_blank">Aula virtual</a>
-        <br>
-      </div>
-
-      <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2">
-            <img src="https://avinnovador.com/wp-content/uploads/2020/04/home_about_2.jpg" class="img-fluid" alt="">
           
+      </div>  
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2">
+            
+            <a class="btn btn-info" href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=9ebd8b9f-1072-4916-bdcb-2dc3ddee03da" target="_blank">Aula virtual</a>
+            <img src="assets/img/instituto/aulavirtual.jfif" class="img-fluid mt-2" alt="">
+            
           </div>
           <div class="col-lg-6 order-1 order-lg-2">
-            <img src="https://avinnovador.com/wp-content/uploads/2020/04/home_about_2.jpg" class="img-fluid" alt="">
-          
+            <a class="btn btn-primary" href="https://www.facebook.com/InstitutoSuperiorSurAndes" target="_blank">Facebook</a>
+            <img src="assets/img/instituto/fb.png" class="img-fluid mt-2" alt="">
+
           </div>
       </div>
     </div>
