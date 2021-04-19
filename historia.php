@@ -75,19 +75,31 @@
             <img src="http://portal.apci.gob.pe/media/k2/items/cache/4556f9757414c95d6b9db044b0c9421c_L.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
-            <h3>Autorizado con Resolución Ministerial</h3>
-            <h3> Nº 604-2013-ED.</h3>
-            <p class="font-italic">
-                La historia del Instituto de Educación Superior Tecnológico Privado “Sur Andes” 
-                empieza en 2013. El entonces ministro de Educación, general de División 
-                del EP Rodolfo Huanca, firma la R.M. Nº 604-2013-ED. Era el 28 de marzo y 
-                faltaba poco para terminar su mandato el presidente de la República.
+            <h3>Resolución Ministerial</h3>
+            <h3> Nº 0604-2013-ED.</h3>
+            <p class="text-justify">
+            El Instituto de Educación Superior Tecnológico Privado Sur Andes, es una institución
+creado bajo la Resolución Ministerial N° 0604-2013-ED el 06 de diciembre del 2013
+donde autoriza el funcionamiento con la Carrera Profesional Técnica de Contabilidad.
+En marco de La Ley de Institutos y Escuelas de Educación Superior y de la Carrera
+Pública de sus Docentes N° 30512 y su Reglamento aprobado mediante Decreto
+Supremo N° 010-2017-MINEDU introdujo las bases para la reforma de la Educación
+Superior Tecnológica, al implementar cambios sustanciales para el desarrollo y
+funcionamiento de este nivel de la educación; por lo cual nuestra institución
+se encuentra en el proceso de licenciamiento institucional.
             </p>
-            <p> 
-                La Resolución obedecía al convenio entre la República del Perú y el Banco Interamericano
-                de Reconstrucción y Fomento (Proyecto Perú-Birf), que promovía la creación de la Escuela 
-                Superior de Educación Profesional –ESEP– REPÚBLICA FEDERAL PERU. Se autorizaba 
-                entonces a ofrecer las Areas Profesionales de Contabilidad.
+            <p class="text-justify"> 
+            Nuestra institución ubicada en la ciudad de Puno, una institución al servicio de la
+población juvenil, que desea formarse en una carrera técnica profesional de
+Contabilidad acorde a las necesidades del mercado laboral local, regional y nacional,
+actualmente nuestros egresados se encuentran trabajando en el mercado laboral local,
+regional y nacional, lo cual nos ha permitido alcanzar un prestigio formativo en el nivel
+de educación superior; sustentable con nuestra plana de docentes con amplia
+experiencia profesional calificada y debidamente seleccionada quienes imparten
+conocimientos en los módulos de las competencias de especialidad y empleabilidad en
+contabilidad, contamos también con: Talleres laboratorios equipados con sus
+respectivos módulos de enseñanza, salas de innovación tecnológica de cómputo,
+biblioteca física virtual entre otros servicios.
             </p>
             <!-- <ul>
               <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>

@@ -91,12 +91,12 @@
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="icofont-computer"></i></div>
             <h4 class="title"><a href="admision.php">ADMISIÓN</a></h4>
-            <p class="description">Fecha del Examen Virtual es 2021, por favor leer las instrucciones.</p>
+            <p class="description">Fecha del Examen Virtual es 03 de Mayo de 2021, por favor leer las instrucciones del <a class="btn btn-danger" href="assets/documento/PROSPECTO SUR ANDES OFICIAL.pdf" target="_blank" rel="noopener noreferrer">PROSPECTO SUR ANDES OFICIAL.pdf</a>.</p>
             <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="icofont-eye-open"></i></div>
-            <h4 class="title"><a href="misionVision.php">MISION VISION</a></h4>
+            <h4 class="title"><a href="misionVision.php">MISIÓN Y VISIÓN</a></h4>
             <p class="description">Al 2024, ser una institución licenciada, acreditada, lider en la
               educación superior tecnológica formando personas profesionales integras e insertadas 
               en el mercado laboral comprometidas con el desarrollo del país.</p>

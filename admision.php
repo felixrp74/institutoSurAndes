@@ -71,15 +71,13 @@
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2">
             
-            <a class="btn btn-info" href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=9ebd8b9f-1072-4916-bdcb-2dc3ddee03da" target="_blank">PDF de instrucciones del examen</a>
+            <a class="btn btn-danger" href="assets/documento/PROSPECTO SUR ANDES OFICIAL.pdf" target="_blank">PDF de instrucciones del examen</a>
             <img src="https://www.tec.ac.cr/sites/default/files/media/img/main/examen-de-admision-tec.jpg" class="img-fluid mt-2 p-10" alt="">
             
           </div>
           <div class="col-lg-6 order-1 order-lg-2">
             <a class="btn btn-primary" href="https://www.facebook.com/InstitutoSuperiorSurAndes" target="_blank">Facebook</a>
             <img src="assets/img/instituto/fb.png" class="img-fluid mt-2" alt="">
-
-
           </div>
       </div>
     </div>

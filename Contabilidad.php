@@ -92,16 +92,22 @@
             <img src="assets/img/about-img.jpg" class="img-fluid" alt="">
           </div> -->
           <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
-            <h2>¿Qué hace un profesional Técnico en Contabilidad?</h2>
-            <!-- <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p> -->
-            <ul>
+            <h2>Descripción</h2>
+            <p class="text-justify">
+              La Carrera Profesional Técnica de Contabilidad es una carrera
+              con amplio campo profesional, la Contabilidad suministra
+              información contable y financiera en forma oportuna para la toma
+              de decisiones, es allí su importancia dado que todas las empresas
+              e instituciones tienen la necesidad de llevar un riguroso control de
+              sus negociaciones mercantiles y financieras obteniendo mayor
+              productividad y aprovechamiento de su capital invertido.
+            </p>
+            <br>
+            <!-- <ul>
               <li><i class="icofont-check-circled"></i> Realizar el registro contable de las operaciones financieras, comerciales y de costos de las empresas.</li>
               <li><i class="icofont-check-circled"></i> Elaborar y analizar estados financieros.</li>
               <li><i class="icofont-check-circled"></i> Determinar impuestos, tributos y declaraciones fiscales sobre la base del marco regulatorio nacional y la normatividad de las empresas.</li>
-            </ul>
+            </ul> -->
             <!-- <p>
               Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
               velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
@@ -111,22 +117,17 @@
         </div>
 
         
+
         <div class="row">
-          <!-- <div class="col-lg-6 order-1 order-lg-2">
+          <div class="col-lg-6 order-1 order-lg-2">
             <img src="assets/img/about-img.jpg" class="img-fluid" alt="">
-          </div> -->
+          </div>
           <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
-            <h2>Certificaciones</h2>
-            <!-- <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p> -->
-            <ul>
-              <li><i class="icofont-check-circled"></i> 1ra. Certificación  : Operaciones Contables y Tributarias.</li>
-              <li><i class="icofont-check-circled"></i> 2da. Certificación : Procesos y Sistemas Contables.</li>
-              <li><i class="icofont-check-circled"></i> 3ra. Certificación  : Análisis Contable y Financiero​​.</li>
-              
-            </ul>
+            <h2>Perfil Profesional</h2>
+            <p class="text-justify">
+              Planifica, organiza y registra las operaciones económicas y financieras de las entidades públicas y privadas
+        en función de su actividad de acorde al sistema de contabilidad y a la legislación vigente.
+            </p>
             <!-- <p>
               Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
               velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
@@ -140,16 +141,17 @@
             <img src="assets/img/about-img.jpg" class="img-fluid" alt="">
           </div> -->
           <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
-            <h2>Grados y Títulos</h2>
+            <h2>Turno</h2>
             <!-- <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Planifica, organiza y registra las operaciones económicas y financieras de las entidades públicas y privadas
+        en función de su actividad de acorde al sistema de contabilidad y a la legislación vigente.
             </p> -->
             <ul>
-              <li><i class="icofont-check"></i>Grado Académico de Bachiller Técnico en Contabilidad</li>
-              <li><i class="icofont-check"></i> Título Profesional Técnico en Contabilidad</li>
-              <!-- <li><i class="icofont-check-circled"></i> 3ra. Certificación  : Análisis Contable y Financiero​​.</li> -->
-              
+            
+              <li><i class="icofont-check-circled"></i> Mañana.</li>
+              <li><i class="icofont-check-circled"></i> Tarde.</li>
+              <li><i class="icofont-check-circled"></i> Noche.</li>
+            
             </ul>
             <!-- <p>
               Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
@@ -160,6 +162,29 @@
         </div>
 
 
+        <div class="row">
+          <!-- <div class="col-lg-6 order-1 order-lg-2">
+            <img src="assets/img/about-img.jpg" class="img-fluid" alt="">
+          </div> -->
+          <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
+            <h2>Certificación Modular</h2>
+            <p class="text-justify">
+              Duracion de estudios: Los estudios estudios se desarrollan en seis (06) periodos académicos
+              y tienen una duración de (03) años.
+            </p>
+            <ul>
+              <li><i class="icofont-check-circled"></i> 1ra. Certificación  : Procesos Contables.</li>
+              <li><i class="icofont-check-circled"></i> 2da. Certificación : Contabilidad Pública y Privada.</li>
+              <li><i class="icofont-check-circled"></i> 3ra. Certificación  : Análisis Financiero​​.</li>
+              
+            </ul>
+            <!-- <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p> -->
+          </div>
+        </div>
 
 
         <div class="row">
@@ -168,7 +193,7 @@
           </div> -->
           <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1">
             <h2>Campo Laboral</h2>
-              <p class="font-italic"> 
+              <p class="text-justify"> 
                 El egresado del programa de estudios de Contabilidad podrá desempeñarse en el área contable y 
                 financiera de cualquier institución y/o empresa pública o privada en posiciones especializadas como contabilidad general, 
                 finanzas, tributación, tesorería, auditoría interna, entre otros, desempeñando funciones como:

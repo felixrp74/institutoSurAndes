@@ -85,19 +85,37 @@
       <div class="portfolio-description">
           <h2>Misión</h2>
           <p>
-          Al 2024, ser una institución licenciada, acreditada, lider en la
-           educación superior tecnológica formando personas profesionales integras e insertadas 
-          en el mercado laboral comprometidas con el desarrollo del país.
+          Formar profesionales técnicos, competitivos,
+emprendedores, con valores; para ello contamos
+con capacidad de docentes calificados, contribuyendo
+al desarrollo de la región y del país.
           </p>
         </div>
         <div class="portfolio-description">
           <h2>Visión</h2>
           <p>
-          “Formar profesionales técnicos de calidad con valores éticos y morales, 
-          que contribuyan a mejorar la realidad socio-económica del país”.
+          Ser una institución líder en la formación
+de técnicos profesionales de alta calidad,
+fortaleciendo en la investigación e innovación
+tecnológica para el emprendimiento de éxito.
           </p>
         </div>
         <div class="portfolio-description">
+          <h2>Valores</h2>
+          <p>
+          La grandeza del Imperio Incaico, que entre los siglos
+XI y XVI dominó extensas áreas de nuestro continente,
+no solo radicó en su poderío militar, sino en su organización
+y la buena administración, por estas reglas hizo que el
+imperio de Tahuantinsuyo creciera muy rápido.
+          </p>
+          <ul>
+            <li><span class="fa fa-check"></span> Ama sua (no seas ladrón).</li>
+            <li><span class="fa fa-check"></span> Ama llulla (no seas mentiroso).</li>
+            <li><span class="fa fa-check"></span> Ama quella (no seas flojo).</li>
+          </ul>
+        </div>
+        <!-- <div class="portfolio-description">
           <h2>Fines</h2>
           <div class="course-required" style="margin: 1em">
             <ul>
@@ -108,9 +126,9 @@
                 <li><span class="fa fa-check"></span> Utilizar la Tecnología como un medio de contribución a la paz social y conservación del medio ambiente.</li>
                 <li><span class="fa fa-check"></span> Promover el desarrollo científico y socioeconómico del personal que labora en el IESTP "SUR ANDES".</li>
             </ul>
-        </div>
-        </div>
-        <div class="portfolio-description">
+        </div> -->
+        <!-- </div> -->
+        <!-- <div class="portfolio-description">
           <h2>Objetivos</h2>
           <div class="course-required" style="margin: 1em">
             <ul>
@@ -120,7 +138,7 @@
                 <li><span class="fa fa-check"></span> Convertir a nuestra institución en un agente dinamizador del entorno implementando un conjunto de mecanismos de convenios, alianzas estratégicas e intercambio de servicios educativos, empresariales y de innovación, con los actores sociales de la localidad.</li>
                 <li><span class="fa fa-check"></span> Fomentar la investigación, innovación y transferencia tecnológica a favor de los sectores productivos y de servicios de la región.</li>
             </ul>
-        </div>
+        </div> -->
         </div>
       </div>
     </section><!-- End Portfolio Details Section -->

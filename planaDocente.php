@@ -141,13 +141,13 @@
 
 
         
-        <div class="row">v>
+        <!-- <div class="row">
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/team/felix2.png" alt="">
               <h4>Felix Ramos Paredes</h4>
-              <span>Tecnologías de Información - Computación</span>
+              <span>Tecnologías de Información</span>
               <p>
                 Con conocimiento en la ingenieria de sistemas e inteligencia artificial.
                 Diseñar, programar, aplicar y mantener sistemas informáticos.
@@ -156,15 +156,15 @@
                 Investigar para crear software y hardware en una empresa u organización.
               </p>
               <div class="social">
-                <!-- <a href=""><i class="icofont-twitter"></i></a>
+                <a href=""><i class="icofont-twitter"></i></a>
                 <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a> -->
+                <a href=""><i class="icofont-instagram"></i></a>
                 <a href=""><i class="icofont-linkedin"></i></a>
               </div>
             </div>
           </div>          
 
-        </div>
+        </div> -->
       </div>
     </section><!-- End Our Team Section -->
 
