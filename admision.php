@@ -69,16 +69,19 @@
           
       </div>  
         <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2">
-            
+        
+          <div class="col-lg-6 order-1 order-lg-2">            
             <a class="btn btn-danger" href="assets/documento/PROSPECTO SUR ANDES OFICIAL.pdf" target="_blank">PDF de instrucciones del examen</a>
             <img src="https://www.tec.ac.cr/sites/default/files/media/img/main/examen-de-admision-tec.jpg" class="img-fluid mt-2 p-10" alt="">
-            
           </div>
+
           <div class="col-lg-6 order-1 order-lg-2">
-            <a class="btn btn-primary" href="https://www.facebook.com/InstitutoSuperiorSurAndes" target="_blank">Facebook</a>
-            <img src="assets/img/instituto/fb.png" class="img-fluid mt-2" alt="">
+            <a class="btn btn-primary" href="https://forms.gle/hBdgPKFYUt3yDiGPA" target="_blank">Insccripción al examen</a>
+            <!-- <img src="assets/img/instituto/fb.png" class="img-fluid mt-2" alt=""> -->
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7BvC8UohubRM3M7QdSevipbD2x3d23S3Ng-i9moA_vXAjvA/viewform?embedded=true" 
+            width="640" height="3232" frameborder="0" marginheight="0" marginwidth="0">Cargando …</iframe>
           </div>
+
       </div>
     </div>
 
