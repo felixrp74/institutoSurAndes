@@ -91,7 +91,12 @@
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="icofont-computer"></i></div>
             <h4 class="title"><a href="admision.php">ADMISIÓN</a></h4>
-            <p class="description">Fecha del Examen Virtual es 03 de Mayo de 2021, por favor leer las instrucciones del <a class="btn btn-danger" href="assets/documento/PROSPECTO SUR ANDES OFICIAL.pdf" target="_blank" rel="noopener noreferrer">PROSPECTO SUR ANDES OFICIAL.pdf</a>.</p>
+            <p class="description">Fecha del Examen Virtual es 08 de Mayo de 2021, https://forms.gle/hBdgPKFYUt3yDiGPA 
+              <!-- <a class="btn btn-danger" href="assets/documento/PROSPECTO SUR ANDES OFICIAL.pdf" 
+              target="_blank" rel="noopener noreferrer">PROSPECTO SUR ANDES OFICIAL.pdf</a> -->
+              <a class="btn btn-primary" href="https://forms.gle/hBdgPKFYUt3yDiGPA" target="_blank">Inscripción al examen</a>
+              
+            </p>
             <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">

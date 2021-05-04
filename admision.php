@@ -76,7 +76,7 @@
           </div>
 
           <div class="col-lg-6 order-1 order-lg-2">
-            <a class="btn btn-primary" href="https://forms.gle/hBdgPKFYUt3yDiGPA" target="_blank">Insccripción al examen</a>
+            <a class="btn btn-primary" href="https://forms.gle/hBdgPKFYUt3yDiGPA" target="_blank">Inscripción al examen</a>
             <!-- <img src="assets/img/instituto/fb.png" class="img-fluid mt-2" alt=""> -->
             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7BvC8UohubRM3M7QdSevipbD2x3d23S3Ng-i9moA_vXAjvA/viewform?embedded=true" 
             width="640" height="3232" frameborder="0" marginheight="0" marginwidth="0">Cargando …</iframe>
